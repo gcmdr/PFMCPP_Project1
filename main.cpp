@@ -52,85 +52,89 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: the dog plays
+dog.play();
+//  action 2: the dog bites
+dog.bite();
+//  action 3: the dog growls
+dog.growl();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat purrs
+cat.purr();
+//  action 2: the cat scratches
+cat.scratch();
+//  action 3: the cat jump
+cat.jump();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: guitarist
+//  action 1: the guitarist shreds
+guitarist.shred();
+//  action 2: the guitarist wails
+guitarist.wail();
+//  action 3: the guitarist rushes
+guitarist.rush();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cyclone
+//  action 1: the cyclone spins
+cyclone.spin();
+//  action 2: the cyclone destroys
+cyclone.destroys();
+//  action 3: the cyclone inspires fear
+cyclone.inspiresFear();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: jack the ripper
+//  action 1: jack the ripper slices
+jackTheRipper.slice();
+//  action 2: jack the ripper stabs
+jackTheRipper.stab();
+//  action 3: jack the ripper disappears
+jackTheRipper.disappear();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: tree
+//  action 1: the tree grows
+tree.grow();
+//  action 2: the tree bears fruit
+tree.bearFruit();
+//  action 3: the tree sheds leaves
+tree.shedLeaves();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: philosopher
+//  action 1: the philosopher thinks
+philosopher.think();
+//  action 2: the philosopher laments the plight of man
+philosopher.lamentThePlightOfMan();
+//  action 3: the philosopher philosophizes 
+philosopher.philosophize();
+//  8) 
+//  Noun: acdc
+//  action 1: acdc rocks
+acdc.rock();
+//  action 2: acdc rolls
+acdc.roll();
+//  action 3: acdc detonates tnt
+acdc.detonateTnt();  // acdc.detonateTNT() ?? how does camel case square with an acronym?
+//  9) 
+//  Noun: the dude 
+//  action 1: the dude smokes
+theDude.smoke();
+//  action 2: the dude bowls
+theDude.bowl();
+//  action 3: the dude abides
+theDude.abide();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: slimer
+//  action 1: slimer flies
+slimer.fly();
+//  action 2: slimer slimes
+slimer.slime();
+//  action 3: slimer eats
+slimer.eat();
 
 
 #endif
