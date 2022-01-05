@@ -104,13 +104,13 @@ tree.bearFruit();
 tree.shedLeaves();
 
 //  7)
-//  Noun: philosopher
-//  action 1: the philosopher thinks
-philosopher.think();
-//  action 2: the philosopher laments the plight of man
-philosopher.lamentThePlightOfMan();
-//  action 3: the philosopher philosophizes 
-philosopher.philosophize();
+//  Noun: inspector gadget
+//  action 1: inspector gadget solves the case
+inspectorGadget.solveCase();
+//  action 2: inspector gagdet parallel parks
+inspectorGadget.parallelPark();
+//  action 3: inspector gadget fights crime 
+inspectorGadget.fightCrime();
 //  8) 
 //  Noun: acdc
 //  action 1: acdc rocks
